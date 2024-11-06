@@ -166,7 +166,7 @@ requests==2.31.0
 rich==13.8.0
 rsa==4.9
 scikit-learn==0.22.2.post1
-scipy==1.7.3
+scipy==1.10.1
 seaborn==0.12.2
 Send2Trash==1.8.3
 six==1.16.0
@@ -183,9 +183,9 @@ statsmodels==0.13.5
 streamlit==1.23.1
 SwarmPackagePy==1.0.0a5
 tenacity==8.2.3
-tensorboard==1.14.0
-tensorflow==1.14.0
-tensorflow-estimator==1.14.0
+tensorflow==2.11.0
+tensorflow-estimator==2.11.0
+tensorboard==2.11.0
 termcolor==2.3.0
 terminado==0.17.1
 threadpoolctl==3.1.0
