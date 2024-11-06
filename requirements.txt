@@ -119,8 +119,8 @@ nltk==3.8.1
 notebook==6.5.7
 notebook_shim==0.2.4
 numpy>=1.21.0
-opencv-contrib-python==4.10.0.84
-opencv-python==4.2.0.32
+opencv-contrib-python==4.10.0.84  # Compatible with Python 3.11
+opencv-python==4.10.0.84  # Updated to a compatible version
 openpyxl==3.0.9
 packaging==23.2
 pandas==1.1.5
@@ -195,18 +195,15 @@ toml==0.10.2
 tomli==2.0.1
 toolz==0.12.1
 tornado==6.2
-tqdm==4.66.4
-traitlets==5.9.0
-typing-inspect==0.9.0
-typing_extensions==4.7.1
-tzdata==2024.1
-tzlocal==4.3.1
-urllib3==1.26.6
-validators==0.20.0
-vine==5.1.1
-waitress==2.2.0
-Werkzeug==2.2.3
-wheel
+tqdm==4.66.1
+traitlets==5.9.1
+twilio==6.81.0
+typed-ast==1.5.0
+typing-extensions==4.7.1
+urllib3==1.26.15
+watchdog==2.2.0
+werkzeug==2.2.3
+wheel==0.41.1
 widgetsnbextension==5.9.0
 xgboost==1.7.5
 yarl==1.8.2
